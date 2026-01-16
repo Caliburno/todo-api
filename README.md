@@ -4,7 +4,7 @@ RESTful API for task management built with Spring Boot.
 
 ## Technologies
 
-- Java 17
+- Java 21
 - Spring Boot 3.5.9
 - Spring Data JPA
 - H2 Database
