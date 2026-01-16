@@ -24,7 +24,7 @@ RESTful API for task management built with Spring Boot.
 
 ### Prerequisites
 
-- Java 17 or higher
+- Java 21 or higher
 - Maven 3.6+
 
 ### Installation
